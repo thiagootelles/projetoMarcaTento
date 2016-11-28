@@ -1,0 +1,2 @@
+# projetoMarcaTento
+marcador de truco
